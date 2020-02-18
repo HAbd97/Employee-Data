@@ -1,0 +1,6 @@
+C:\Users\humam\Google Drive\Naico Assignments\Humam Abdullah\.Net Tasks\Task_1\Employee\Employee\obj\Debug\Employee.csprojAssemblyReference.cache
+C:\Users\humam\Google Drive\Naico Assignments\Humam Abdullah\.Net Tasks\Task_1\Employee\Employee\bin\Debug\Employee.exe.config
+C:\Users\humam\Google Drive\Naico Assignments\Humam Abdullah\.Net Tasks\Task_1\Employee\Employee\bin\Debug\Employee.exe
+C:\Users\humam\Google Drive\Naico Assignments\Humam Abdullah\.Net Tasks\Task_1\Employee\Employee\bin\Debug\Employee.pdb
+C:\Users\humam\Google Drive\Naico Assignments\Humam Abdullah\.Net Tasks\Task_1\Employee\Employee\obj\Debug\Employee.exe
+C:\Users\humam\Google Drive\Naico Assignments\Humam Abdullah\.Net Tasks\Task_1\Employee\Employee\obj\Debug\Employee.pdb
